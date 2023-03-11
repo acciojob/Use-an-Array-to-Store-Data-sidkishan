@@ -4,4 +4,4 @@ yourArray.forEach((item)=>{
   let list = document.createElement("li");
   li.innerText = item;
   list.appendChild(li);
-})
+});
