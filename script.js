@@ -1,1 +1,1 @@
-let yourArray = ["Siddharth", 7, true, false, 1];
+let yourArray = ['Siddharth', 1, 2, 3, true];
